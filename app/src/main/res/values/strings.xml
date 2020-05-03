@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BasicWidgets</string>
+    <string name="this_checkbox_is">This Checkbox is:</string>
+    <string name="button1">Button1</string>
+    <string name="button1TextString"></string>
+    <string name="checkbox1"></string>
+    <string name="textview">TextView</string>
+
+    <string name="radiobutton1">RadioButton1</string>
+    <string name="radiobutton2">RadioButton2</string>
+    <string name="radiobutton3">RadioButton3</string>
+
+    <string name="enteredText"></string>
+    <string name="radioGroupText"></string>
+    <string name="progressBarText">1</string>
+    <string name="updateLlabel">Update Label</string>
+    <string name="switch1"></string>
+</resources>
